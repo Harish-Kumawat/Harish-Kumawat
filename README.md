@@ -37,7 +37,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/harish-kumawat-">
+  <a href="https://www.linkedin.com/in/harish-kumawat-423646242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
