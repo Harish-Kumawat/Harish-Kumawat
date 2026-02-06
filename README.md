@@ -17,6 +17,8 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 - 🌱 Learning *Spring Boot, REST APIs & Advanced Java*
 - 💡 Focused on writing *clean, efficient, and scalable Java code*
 - 🚀 Always building & learning every day
+
+  ---------------------------------------------------------
   
 
 ## 🛠️ Tech Stack
@@ -31,10 +33,13 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 *Tools:* GitHub | VS Code | Eclipse | Postman | Apache Kafka
 
+-------------------------------------------------------------
+
 
 
 ## 🌐 Let's Connect
 
+<h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/harish-kumawat-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
