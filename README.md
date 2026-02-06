@@ -18,7 +18,6 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 - 💡 Focused on writing *clean, efficient, and scalable Java code*
 - 🚀 Always building & learning every day
 
-  ---------------------------------------------------------
   
 
 ## 🛠️ Tech Stack
@@ -33,11 +32,8 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 *Tools:* GitHub | VS Code | Eclipse | Postman | Apache Kafka
 
--------------------------------------------------------------
 
 
-
-## 🌐 Let's Connect
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
