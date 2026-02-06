@@ -17,8 +17,9 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 - 🌱 Learning *Spring Boot, REST APIs & Advanced Java*
 - 💡 Focused on writing *clean, efficient, and scalable Java code*
 - 🚀 Always building & learning every day
+  
 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🔹 Languages
 - Java
@@ -51,6 +52,8 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 - ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harish-Kumawat&show_icons=true&theme=transparent" />
 </p>
@@ -63,11 +66,13 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Kumawat&layout=compact&theme=transparent" />
 </p>
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harish-Kumawat&theme=darkhub&no-frame=true" />
 </p>
+
 
 ## 🌐 Let's Connect
 
