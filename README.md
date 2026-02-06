@@ -21,57 +21,11 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages
-- Java
-- JavaScript
-
-### 🔹 Frontend
-- HTML
-- CSS
-- JavaScript
-- Typescript
-- BootStrap
-- React 
-
-### 🔹 Backend
-- Java
-- JDBC
-- Spring Boot 
-- REST API
-
-### 🔹 Database
-- MySQL
-- MongoDB
-
-### 🔹 Tools
-- GitHub
-- VS Code
-- Eclipse
-- Postman API
-- Apache Kafka
-
-- ## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-Kumawat&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harish-Kumawat&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Kumawat&layout=compact&theme=transparent" />
-</p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harish-Kumawat&theme=darkhub&no-frame=true" />
-</p>
+*Languages:* Java JavaScript  
+*Frontend:* HTML CSS JavaScript TypeScript Bootstrap React  
+*Backend:* Java JDBC Spring Boot REST API  
+*Database:* MySQL MongoDB  
+*Tools:* GitHub VS Code Eclipse Postman Apache Kafka
 
 
 ## 🌐 Let's Connect
