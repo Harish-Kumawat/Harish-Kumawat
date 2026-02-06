@@ -21,12 +21,15 @@ I enjoy learning new technologies, improving my problem-solving skills, and work
 
 ## 🛠️ Tech Stack
 
-*Languages:* Java JavaScript  
-*Frontend:* HTML CSS JavaScript TypeScript Bootstrap React  
-*Backend:* Java JDBC Spring Boot REST API  
-*Database:* MySQL MongoDB  
-*Tools:* GitHub VS Code Eclipse Postman Apache Kafka
+*Languages:* Java | JavaScript  
 
+*Frontend:* HTML | CSS | JavaScript | TypeScript | Bootstrap | React  
+
+*Backend:* Java | JDBC | Spring Boot | REST API  
+
+*Database:* MySQL | MongoDB  
+
+*Tools:* GitHub | VS Code | Eclipse | Postman | Apache Kafka
 
 ## 🌐 Let's Connect
 
