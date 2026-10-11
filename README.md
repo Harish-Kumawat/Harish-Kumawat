@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=FF1744&center=true&vCenter=true&width=820&lines=💻+DEVELOPER;☕+JAVA+FULL+STACK+DEVELOPER;🚀+BUILDING+PROJECTS+%26+LEARNING+EVERY+DAY"
-    alt="Typing SVG"
-  />
-</h1>
-
 ## Hi, I'm Harish Kumawat 👋  
 ### 💻 Java Full Stack Developer
 
